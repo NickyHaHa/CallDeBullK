@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 2.9.7400 64-bit) (preloaded format=xelatex 2020.5.16)  16 MAY 2020 11:40
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 2.9.7400 64-bit) (preloaded format=xelatex 2020.5.16)  16 MAY 2020 12:17
 entering extended mode
 **./codebook.tex
 (codebook.tex
@@ -544,7 +544,7 @@ Package xeCJK Warning: Unknown CJK family `\CJKttdefault' is being ignored.
 (xeCJK)                Try to use `\setCJKmonofont[...]{...}' to define it.
 
 (Basic/Map.cpp) (DataStructure/DisjointSet.cpp) (DataStructure/SegmentTree.cpp)
-(Graph/Dijkstra.cpp
+(DataStructure/AdjList.cpp
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
 Make it at least 12.04004pt.
@@ -562,27 +562,28 @@ This may cause the page layout to be inconsistent, however.
 ]
 
 LaTeX Font Warning: Font shape `TU/NotoSansCJKTC(0)/m/it' undefined
-(Font)              using `TU/NotoSansCJKTC(0)/m/n' instead on input line 8.
+(Font)              using `TU/NotoSansCJKTC(0)/m/n' instead on input line 20.
 
-) (Math/PrimeTable.cpp))
+) (DataStructure/AdjMatrix.cpp) (Graph/Dijkstra.cpp) (Graph/DFS.cpp [2])
+(Graph/BFS.cpp)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3]
+(Math/PrimeTable.cpp) (Math/TopologySort.cpp))
 File: 22449.png Graphic file (type bmp)
 <22449.png>
-
-Underfull \vbox (badness 1852) has occurred while \output is active []
-
- [2]
-(codebook.aux)
+ [4] (codebook.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 9052 strings out of 414218
- 200421 string characters out of 2904979
- 828244 words of memory out of 3000000
- 26426 multiletter control sequences out of 15000+200000
+ 9179 strings out of 414218
+ 201855 string characters out of 2904979
+ 866244 words of memory out of 3000000
+ 26538 multiletter control sequences out of 15000+200000
  533901 words of font info for 64 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 44i,12n,70p,250b,1649s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 45i,12n,70p,250b,1647s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on codebook.pdf (2 pages).
+Output written on codebook.pdf (4 pages).

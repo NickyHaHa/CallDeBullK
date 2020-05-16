@@ -3,7 +3,12 @@
 \contentsline {section}{\numberline {2}DataStructure}{1}%
 \contentsline {subsection}{\numberline {2.1}DisjointSet}{1}%
 \contentsline {subsection}{\numberline {2.2}SegmentTree}{1}%
-\contentsline {section}{\numberline {3}Graph}{1}%
-\contentsline {subsection}{\numberline {3.1}Dijkstra}{1}%
-\contentsline {section}{\numberline {4}Math}{2}%
-\contentsline {subsection}{\numberline {4.1}PrimeTable}{2}%
+\contentsline {subsection}{\numberline {2.3}AdjList}{1}%
+\contentsline {subsection}{\numberline {2.4}AdjMatrix}{2}%
+\contentsline {section}{\numberline {3}Graph}{2}%
+\contentsline {subsection}{\numberline {3.1}Dijkstra}{2}%
+\contentsline {subsection}{\numberline {3.2}DFS}{2}%
+\contentsline {subsection}{\numberline {3.3}BFS}{3}%
+\contentsline {section}{\numberline {4}Math}{4}%
+\contentsline {subsection}{\numberline {4.1}PrimeTable}{4}%
+\contentsline {subsection}{\numberline {4.2}TopologySort}{4}%
